@@ -177,8 +177,7 @@ Support Ticket Dataset
 
 ## Status
 
-⬜ In Progress
-
+✅ Completed
 ---
 
 # Repository Structure
