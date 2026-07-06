@@ -160,10 +160,6 @@ AI-ML-Engineering-Advanced-Internship/
 
 ├── Task-2-End-to-End-ML-Pipeline/
 
-├── Task-3-Multimodal-Housing-Price-Prediction/
-
-├── Task-4-Context-Aware-Chatbot-RAG/
-
 ├── Task-5-Auto-Tagging-Support-Tickets-LLM/
 
 └── README.md
