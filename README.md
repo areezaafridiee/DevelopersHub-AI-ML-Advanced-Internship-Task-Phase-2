@@ -49,7 +49,6 @@ AG News Dataset
 
 ## Status
 ✅ Completed
-
 ---
 
 # Task 2: End-to-End ML Pipeline for Customer Churn Prediction
@@ -74,7 +73,6 @@ Telco Customer Churn Dataset
 
 ## Status
 ✅ Completed
-
 ---
 
 # Task 3: Multimodal Housing Price Prediction
