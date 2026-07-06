@@ -48,7 +48,7 @@ AG News Dataset
 * Streamlit/Gradio deployment
 
 ## Status
-⬜ In Progress
+✅ Completed
 
 ---
 
@@ -97,7 +97,7 @@ Housing Sales Dataset + House Image Dataset
 * MAE and RMSE Evaluation
 
 ## Status
-⬜ Planned
+⬜ Planned (Optional)
 
 ---
 
@@ -124,7 +124,7 @@ Custom Knowledge Base / Document Collection
 * Chatbot Deployment
 
 ## Status
-⬜ Planned
+⬜ Planned (Optional)
 
 ---
 
